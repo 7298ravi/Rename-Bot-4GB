@@ -35,7 +35,7 @@
 
  - Deploy To Heroku
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/[Rename-Bot-4GB](http://t.me/Urluploader105bot)"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
+<a href="https://heroku.com/deploy?template=https://github.com/Urluploader105bot/[Rename-Bot-4GB](http://t.me/Urluploader105bot)"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
 </p>
 </b>
 </details>
@@ -111,7 +111,7 @@ restart - Use This Command To Cancel All Process And Restart The Bot [Admins Onl
 - [Jishu Botz](https://t.me/JishuBotz)
 
 ### 💕 CONTACT DEVELOPER
-- [Jishu Developer](https://t.me/JishuDeveloper)
+- [Urluploader105bot](http://t.me/Urluploader105bot)
 - [Madflix Official](https://t.me/MadflixOfficials)
 
 ### ☕ BUY ME A COFFEE
