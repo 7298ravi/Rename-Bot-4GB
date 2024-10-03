@@ -1,7 +1,7 @@
 <img src="https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="[(http://t.me/Urluploader105bot" target="/blank">Urluploader105bot</a></>
+ <b><a href="[(http://t.me/Urluploader105bot" target="/blank">http://t.me/Urluploader105bot)</a></>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
