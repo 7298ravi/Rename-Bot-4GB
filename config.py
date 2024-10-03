@@ -5,7 +5,7 @@ import os
 # Required Variables Config
 API_ID = int(os.environ.get("API_ID", "25613025"))
 API_HASH = os.environ.get("API_HASH", "b9c705fb515c81e90f239918f2f7f668")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7848450856:AAGzCfGnAE71YU7VwJ5vm-3DLCDFgJM7Y54")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7325964242:AAEiXoi1WXupUjUiIousZOdNPM9Ha0c7WNQ")
 ADMIN = int(os.environ.get("ADMIN", "6620837238"))
 
 
